@@ -1,4 +1,4 @@
-# Codecasa_project-2Task no:1 - rock, paper,
+# Codecasa_project-2Task no:1 - rock, paper, scissor
 scissor game using python.
 My sincere thanks to codecasa and the team 
 working there to provide me with this wonderful 
